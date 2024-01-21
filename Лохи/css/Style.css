@@ -1,0 +1,45 @@
+html{
+   background-color: rgb(29, 28, 28); 
+}
+*{
+    color: white;
+}
+.head{
+    
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    width: 23em;
+    
+}
+h2{
+    margin-left: auto;
+    margin-right: auto;
+    width: 26em;
+    
+}
+h3{
+    margin-left: auto;
+    margin-right: auto;
+    width: 13em;
+    margin-bottom: 5em;
+}
+img.lox1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    max-height: 100%;
+    border: 10em;
+}
+img.lox2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    max-height: 100%;
+    border: 10em;
+}
+.lox{
+    margin-top: 3em;
+}
